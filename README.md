@@ -1,5 +1,7 @@
 # KEEP NOTES APP
 
+After Cloning/Downloading, run 'npm install' in the base directory to get all the packages used in the app.
+
 This is a react app that helps to manage our personal notes at a place.
 
 In this app, you can add you personal notes by deleting the default ones by clicking on them and then adding yours by making one
