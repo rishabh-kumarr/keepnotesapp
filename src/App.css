@@ -1,0 +1,21 @@
+body {
+	background-color: #dadbd3;}
+
+.todo-app {
+	display: grid;
+	place-items: center;
+}
+
+.app_body {
+	display: flex;
+	flex-direction: column;
+	background-color: #ededed;
+  width: 60vw;
+  cursor: pointer;
+	overflow: auto;
+	box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);
+}
+
+.footer{
+	display: flex;
+}
