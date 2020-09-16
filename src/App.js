@@ -34,7 +34,7 @@ class App extends Component {
 					<AddForm addTodo={this.addTodo} />
 					<Todos todos={this.state.todos} deleteTodo={this.deleteTodo} />
 					<footer className='footer'>
-						© 2020 Made by <a href="instagram.com/rishabh_kumarr">Rishabh</a>,
+						© 2020 Made by &nbsp;<a href="instagram.com/rishabh_kumarr">Rishabh</a>,&nbsp;
 						LLC. All rights reserved.
 					</footer>
 				</div>
